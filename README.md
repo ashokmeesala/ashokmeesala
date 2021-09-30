@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashok meesala
 - 👀 I’m interested in Machine Learning,Full stack doveloper
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend
 - 📫 How to reach me youtube add
 
 <!---
